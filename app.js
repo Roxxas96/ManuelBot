@@ -1,7 +1,7 @@
 // Préréquis et définition du token + client + MessageEmbed
 const {Client, MessageEmbed} = require('discord.js');
 const client = new Client();
-const token = 'MzI3NTA4MjYxNzIzMDQ1ODky.Xlql-Q.RZzClCxNFyJ5GRSoLPjeKR7kMwo';
+const token = '';
 const ytdl = require('ytdl-core');
 const search = require('yt-search');
 const fs = require('fs');
